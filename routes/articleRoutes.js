@@ -10,11 +10,11 @@
 //module.exports = router;
 
 
-var express = require('express');
-var articleRoutes = express.Router();
+const express = require('express');
+const articleRoutes = express.Router();
 
 // Require Article model in our routes module
-var Article = require('../models/Article');
+const Article = require('../models/Article');
 
 // Defined store route
 articleRoutes.route('/add').post(function (req, res) {
