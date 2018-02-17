@@ -18,6 +18,7 @@ const mongoose = require('mongoose');
 const config = require('./data/mongodb');
 //const jwt = require('express-jwt');
 //const jwtSecret = 'aklsdjfklöasjdcma8sd90mcklasdföasdf$ädasöfü pi340qkrlöam,dflöäasf';
+// testcomment
 
 
 // Aplication settings
