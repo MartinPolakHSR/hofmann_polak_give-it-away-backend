@@ -20,6 +20,8 @@ const config = require('./data/mongodb');
 //const jwtSecret = 'aklsdjfklöasjdcma8sd90mcklasdföasdf$ädasöfü pi340qkrlöam,dflöäasf';
 // testcomment
 // new comment
+// new function
+// feature abschluss code
 
 
 // Aplication settings
